@@ -12,4 +12,15 @@ Keywords : Quantum computing, Quantum annealing, Quadratic Unconstrained Binary 
     <li><a href='https://github.com/iai-postech/OpenSource/tree/main/weakly_supervised_microstructure_segmentation'>Spheroidite particles</a></li>
     <li>...</li>
   </ol>
+</div><br>
+
+### Benchmarks
+</div>
+<div align="justify">
+  <ol>
+    <li><a href='https://github.com/supreethmv/Q-Seg'>Q-Seg: Quantum Annealing-Based Unsupervised Image Segmentation</a></li>
+    <li><a href='https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/'>Deeplabv3</a></li>
+    <li><a href='https://github.com/facebookresearch/segment-anything'>Segmentation Anything Model (SAM)</a></li>
+    <li>...</li>
+  </ol>
 </div>
