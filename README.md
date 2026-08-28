@@ -16,11 +16,10 @@ Keywords : Quantum computing, Quantum annealing, Quadratic Unconstrained Binary 
   <ol>
     <li><a href='https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset'>DeepGlobe 2018 road extraction</a></li>
     <li><a href='https://github.com/iai-postech/OpenSource/tree/main/weakly_supervised_microstructure_segmentation'>Spheroidite particles</a></li>
-    <li>...</li>
   </ol>
   Multi-class segmentation
   <ol>
-    <li></li>
+    <li>...</li>
   </ol>
 </div><br>
 
