@@ -8,8 +8,9 @@ Keywords : Quantum computing, Quantum annealing, Quadratic Unconstrained Binary 
 ### Datasets
 </div>
 <div align="justify">
+  TEST
   <ul>
-    <li>[TEST] Fashion MNIST, repurposed for object-background segregation</li>
+    <li>Fashion MNIST, repurposed for object-background segregation</li>
   </ul>
   Binary segmentation
   <ol>
