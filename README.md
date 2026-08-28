@@ -8,11 +8,18 @@ Keywords : Quantum computing, Quantum annealing, Quadratic Unconstrained Binary 
 ### Datasets
 </div>
 <div align="justify">
+  <ul>
+    <li>[TEST] Fashion MNIST, repurposed for object-background segregation</li>
+  </ul>
+  Binary segmentation
   <ol>
-    <li>Fashion MNIST, repurposed for object-background segregation</li>
     <li><a href='https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset'>DeepGlobe 2018 road extraction</a></li>
     <li><a href='https://github.com/iai-postech/OpenSource/tree/main/weakly_supervised_microstructure_segmentation'>Spheroidite particles</a></li>
     <li>...</li>
+  </ol>
+  Multi-class segmentation
+  <ol>
+    <li></li>
   </ol>
 </div><br>
 
